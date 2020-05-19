@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/programs.dir/select-sort-k.cpp.o  -o programs 

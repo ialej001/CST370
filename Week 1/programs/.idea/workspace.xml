@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="programs" targetName="programs" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b26d8d60-64d0-4faa-be6e-6326d170f997" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1WMtb7cVWO1B5nWb43vhb1eEE6b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="programs" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="programs" TARGET_NAME="programs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="programs" RUN_TARGET_NAME="programs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b26d8d60-64d0-4faa-be6e-6326d170f997" name="Default Changelist" comment="" />
+      <created>1578971359712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578971359712</updated>
+      <workItem from="1578971361298" duration="7168000" />
+      <workItem from="1578981425105" duration="1096000" />
+      <workItem from="1579055708413" duration="1365000" />
+      <workItem from="1579571953976" duration="603000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2527" y="238" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578975658177">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2527" y="238" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1578975658177" />
+    <state x="2852" y="338" width="424" height="484" key="FileChooserDialogImpl" timestamp="1578975655999">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2852" y="338" width="424" height="484" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1578975655999" />
+    <state width="1354" height="260" key="GridCell.Tab.0.bottom" timestamp="1578982520494">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1354" height="260" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1578982520494" />
+    <state width="1354" height="260" key="GridCell.Tab.0.center" timestamp="1578982520494">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1354" height="260" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1578982520494" />
+    <state width="1354" height="260" key="GridCell.Tab.0.left" timestamp="1578982520494">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1354" height="260" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1578982520494" />
+    <state width="1354" height="260" key="GridCell.Tab.0.right" timestamp="1578982520494">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1354" height="260" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1578982520494" />
+    <state x="2725" y="407" key="com.intellij.ide.util.TipDialog" timestamp="1579572896415">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2725" y="407" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579572896415" />
+  </component>
+</project>

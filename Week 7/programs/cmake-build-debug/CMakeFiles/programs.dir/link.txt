@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/programs.dir/heap.cpp.o  -o programs 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Week_0.dir/hw1_1.cpp.o  -o Week_0 

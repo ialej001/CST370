@@ -1,0 +1,3 @@
+/home/ivan/Documents/CST370/Week 4/programs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ivan/Documents/CST370/Week 4/programs/cmake-build-debug/CMakeFiles/programs.dir
+/home/ivan/Documents/CST370/Week 4/programs/cmake-build-debug/CMakeFiles/edit_cache.dir

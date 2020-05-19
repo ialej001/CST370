@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="programs" targetName="programs" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b178f075-b99c-4147-928b-580502842a66" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1XKKebgf5r4dqQEIrRSuT9K3bu9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="OCFindUsagesOptions.isSearchForTextOccurrences" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="programs" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="programs" TARGET_NAME="programs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="programs" RUN_TARGET_NAME="programs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b178f075-b99c-4147-928b-580502842a66" name="Default Changelist" comment="" />
+      <created>1580789441095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580789441095</updated>
+      <workItem from="1580789443047" duration="9064000" />
+      <workItem from="1580863360758" duration="10635000" />
+      <workItem from="1581396274798" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2338" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580793899220">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2338" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1580793899220" />
+    <state x="2663" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1580790249556">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2663" y="310" width="424" height="484" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1580790249556" />
+    <state width="937" height="344" key="GridCell.Tab.0.bottom" timestamp="1580884795220">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="937" height="344" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1580884795220" />
+    <state width="937" height="344" key="GridCell.Tab.0.center" timestamp="1580884795220">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="937" height="344" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1580884795220" />
+    <state width="937" height="344" key="GridCell.Tab.0.left" timestamp="1580884795220">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="937" height="344" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1580884795220" />
+    <state width="937" height="344" key="GridCell.Tab.0.right" timestamp="1580884795220">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="937" height="344" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1580884795220" />
+    <state width="937" height="344" key="GridCell.Tab.1.bottom" timestamp="1580884795220">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="937" height="344" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1580884795220" />
+    <state width="937" height="344" key="GridCell.Tab.1.center" timestamp="1580884795220">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="937" height="344" key="GridCell.Tab.1.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1580884795220" />
+    <state width="937" height="344" key="GridCell.Tab.1.left" timestamp="1580884795220">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="937" height="344" key="GridCell.Tab.1.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1580884795220" />
+    <state width="937" height="344" key="GridCell.Tab.1.right" timestamp="1580884795220">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="937" height="344" key="GridCell.Tab.1.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1580884795220" />
+    <state x="2536" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1581396274877">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2536" y="380" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1581396274877" />
+  </component>
+</project>
